@@ -5,7 +5,7 @@
 - ⚡ In free time also making some games with Unity3D.
 - 📫 How to reach me: https://t.me/corenlix
 
-<a href="https://t.me/corenlix.com">
+<a href="https://t.me/corenlix">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
