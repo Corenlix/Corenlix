@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### I am a Java / C# developer from Russia.
-- 📖 Currently learning Java it's stack of technologies.
+- 📖 Currently learning Java and it's stack of technologies.
 - ⚡ In free time also make some games with Unity3D.
 - 📫 How to reach me: https://t.me/corenlix
 
