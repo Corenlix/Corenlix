@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Corenlix/Corenlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Java / C# developer from Russia.
+- 📖 Currently learning Java it's stack of technologies.
+- ⚡ In free time also make some games with Unity3D.
+- 📫 How to reach me: https://t.me/corenlix
 
-Here are some ideas to get you started:
+<a href="https://t.me/corenlix.com">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="mailto:corenlix@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+---
+  
+### 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,python,java,spring,hibernate,postgresql,kafka,rabbitmq,maven,docker,git,html,bootstrap,js,jquery,linux,latex)](https://skillicons.dev)
+
+--- 
+
+### 💡 Projects
+- [Links Tracker](https://github.com/Corenlix/tinkoff-java-course)
+- [Draw Runner](https://github.com/Corenlix/TestHC)
+- [Card Roguelike](https://github.com/Corenlix/SlaveTheSpire)
+- [TDS Roguelike](https://github.com/Corenlix/roguelike-tds-continue)
+---
+
+### ⭐ Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Corenlix&theme=dark&background=000000)](https://git.io/streak-stats)
