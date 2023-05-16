@@ -16,7 +16,7 @@
   --- 
 
 ### 💡 Projects
-- [Links Tracker](https://github.com/Corenlix/tinkoff-java-course)
+- [Links Tracker - Telegram Bot](https://github.com/Corenlix/tinkoff-java-course)
 - [Draw Runner](https://github.com/Corenlix/TestHC)
 - [Card Roguelike](https://github.com/Corenlix/SlaveTheSpire)
 - [TDS Roguelike](https://github.com/Corenlix/roguelike-tds-continue)
