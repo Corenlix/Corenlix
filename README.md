@@ -13,18 +13,18 @@
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
   
----
-  
-### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,python,java,spring,hibernate,postgresql,kafka,rabbitmq,maven,docker,git,html,bootstrap,js,jquery,linux,latex)](https://skillicons.dev)
-
---- 
+  --- 
 
 ### 💡 Projects
 - [Links Tracker](https://github.com/Corenlix/tinkoff-java-course)
 - [Draw Runner](https://github.com/Corenlix/TestHC)
 - [Card Roguelike](https://github.com/Corenlix/SlaveTheSpire)
 - [TDS Roguelike](https://github.com/Corenlix/roguelike-tds-continue)
+---
+  
+### 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,python,java,spring,hibernate,postgresql,kafka,rabbitmq,maven,docker,git,html,bootstrap,js,jquery,linux,latex)](https://skillicons.dev)
+
 ---
 
 ### ⭐ Stats
