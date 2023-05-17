@@ -35,6 +35,7 @@
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/corenlix)
 [![Spring Boot](https://img.shields.io/badge/boot-black?style=for-the-badge&logo=springboot)](https://github.com/corenlix)
 [![Spring Security](https://img.shields.io/badge/security-black?style=for-the-badge&logo=springsecurity)](https://github.com/corenlix)
+[![JUnit](https://img.shields.io/badge/junit-black?style=for-the-badge&logo=junit5)](https://github.com/corenlix)
 
 [![Liquibase](https://img.shields.io/badge/liquibase-black?style=for-the-badge&logo=liquibase)](https://github.com/corenlix)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/corenlix)
@@ -44,7 +45,9 @@
 
 [![Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)](https://github.com/corenlix)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)](https://github.com/corenlix)
+
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/corenlix)
+[![Github Actions](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions)](https://github.com/corenlix)
 [![Maven](https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apachemaven)](https://github.com/corenlix)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/corenlix)
 
