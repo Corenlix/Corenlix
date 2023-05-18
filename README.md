@@ -45,6 +45,8 @@
 
 [![Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)](https://github.com/corenlix)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)](https://github.com/corenlix)
+[![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://github.com/corenlix)
+[![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)](https://github.com/corenlix)
 
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/corenlix)
 [![Github Actions](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions)](https://github.com/corenlix)
