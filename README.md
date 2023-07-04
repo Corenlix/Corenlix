@@ -14,7 +14,6 @@
   --- 
 
 ### 💡 Projects
-#### Java
 - [Latex OCR](https://github.com/Corenlix/LatexOcrTelegram)
 - [Space Invaders](https://github.com/Corenlix/SpaceInvaders)
 - [Links Tracker](https://github.com/Corenlix/tinkoff-java-course)
